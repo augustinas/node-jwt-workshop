@@ -9,4 +9,4 @@
  * Main module of the application.
  */
 angular
-  .module('nodeJwtWorkshopApp', []);
+  .module('nodeJwtWorkshopApp', ['ui.router']);
